@@ -1,3 +1,3 @@
 # Org Profile
 
-Contains our github orgnization profile and discussions.
+Contains our github organization profile and discussions.

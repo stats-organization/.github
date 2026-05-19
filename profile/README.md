@@ -7,7 +7,7 @@ ecosystem, created to make maintenance and collaboration easier.
 We currently maintain:
 - [github-readme-stats](https://github.com/stats-organization/github-readme-stats) (fork) — main development fork where [next](https://github.com/stats-organization/github-readme-stats/tree/next) is the active release branch which we periodically backport to upstream.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (upstream) — the stable reference repository we keep in sync.
-- [Extended fork](https://github.com/stats-organization/github-stats-extended) (fork) — used to prototype changes before they are promoted to the main fork. Also contains out experimental [frontend](https://github-stats-extended.vercel.app/frontend).
+- [Extended fork](https://github.com/stats-organization/github-stats-extended) (fork) — used to prototype changes before they are promoted to the main fork. Also contains our experimental [frontend](https://github-stats-extended.vercel.app/frontend).
 - [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) — GitHub Action used as the recommended way to run `github-readme-stats`.
 - Supporting tooling used by the project.
 
