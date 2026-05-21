@@ -24,5 +24,5 @@ reviews PRs, and helps keep this project useful for the community, especially
 contributors over the years. ❤️
 
 For general org-wide discussion, use the
-[Readme Tools discussions](https://github.com/stats-organization/.github/discussions). Repository-specific questions should stay in the relevant repo's issues or
+[stats-organization discussions](https://github.com/stats-organization/.github/discussions). Repository-specific questions should stay in the relevant repo's issues or
 discussions.
